@@ -296,7 +296,7 @@ Isso indica que, mesmo com poucos dados, partir de pesos pré-treinados no Image
 | Campo | Valor |
 |---|---|
 | Disciplina | Visão Computacional — VC001 |
-| Data | 13 / 10 / 2026 |
+| Data | 15 / 10 / 2026 |
 | Alunos(as) e matrícula | Helder Barros — 2025100387 · Felipe Salustiano — 2025100192 · Lucas Mendes — 2025100323 · Lucas Rafael — 2025100517 · José Kevin — 2025100196 |
 | Atividade | Prática II — Classificação de Dígitos de Hidrômetros com AlexNet, VGG16 e ResNet |
 
@@ -305,7 +305,7 @@ Isso indica que, mesmo com poucos dados, partir de pesos pré-treinados no Image
 | Campo | Valor |
 |---|---|
 | Utilizou IA? | ☒ Sim ☐ Não |
-| Modelo(s) usado(s) | Claude Opus 5.5 (`claude-opus-5-5`, Anthropic), via extensão Claude Code para VS Code |
+| Modelo(s) usado(s) | Claude Opus 5.5 (`claude-opus-5-5`, Anthropic), via extensão Claude Code para VS Code; em 15/10/2026, Claude Sonnet 5.5 (`claude-sonnet-5-5`), na mesma extensão |
 | Prompt(s) utilizado(s) | Ver lista abaixo (prompts exatos, na ordem em que foram enviados) |
 | Resposta gerada | Ver descrição abaixo |
 | Adaptações realizadas | Ver descrição abaixo |
@@ -321,6 +321,8 @@ Isso indica que, mesmo com poucos dados, partir de pesos pré-treinados no Image
 7. `Quais são os arquivos que eu tenho que colocar no repositório do git?`
 8. `a maneira como o projeto está estruturado, é a melhor? o history na raiz do projeto, o notebbok na raiz também. acho q está desorganizado. poderia reorganizar? se reorganizar alguma coisa vai mudar?`
 9. `oq preciso fazer agr?`
+10. (15/10/2026, outra sessão) `quero publicar isso no meu github com o nome vis_comp_VoltLens publico`
+11. (15/10/2026) `do jeito que esta ja posso enviar para o professor? ele colocou os seguintes criterios de avaliação, leia tudo minuciosamente, inclusive o projeto publicado`
 
 #### Resposta gerada e contribuições da IA
 
@@ -333,6 +335,7 @@ Entre as contribuições da IA, destacam-se:
 - **Organização dos arquivos:** sugestões sobre a estrutura do projeto, os arquivos que deveriam ser versionados e os cuidados necessários ao reorganizar diretórios.
 - **Apoio à documentação:** auxílio na elaboração e organização do README, incluindo orientações para apresentar o protocolo experimental, os resultados e as limitações do projeto.
 - **Declaração de uso de IA:** auxílio no preenchimento do modelo fornecido pelo professor, com base nas informações sobre a utilização da ferramenta durante o trabalho.
+- **Publicação e revisão final (15/10/2026):** criação do repositório local, commit e push para o GitHub, e conferência do projeto contra os critérios do professor (arquivos exigidos, ausência de dados versionados, coerência entre README e `results.csv`, número de recortes e splits). A IA apontou que esta declaração precisava incluir esse uso; não alterou resultados, código do notebook nem as respostas às questões.
 - **Esclarecimento de dúvidas técnicas:** orientações para compreender erros, avaliar alternativas e decidir quais etapas deveriam ser executadas ou revisadas pelo grupo.
 
 Essas contribuições não significam que a IA tenha desenvolvido integralmente o projeto. O trabalho envolveu atividades realizadas pelo grupo, que permaneceu responsável pelas decisões técnicas, pela revisão do conteúdo e pela entrega final.
